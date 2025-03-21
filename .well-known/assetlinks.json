@@ -17,6 +17,18 @@
       ],
       "target":{
          "namespace":"android_app",
+         "package_name":"live.fanatics.fanaticslive.dev",
+         "sha256_cert_fingerprints":[
+            "10:D7:1A:6A:35:19:10:03:33:27:73:B0:FD:DA:09:20:BA:27:3A:2E:19:6A:AD:CD:B4:2A:6D:61:23:D4:40:C2"
+         ]
+      }
+   },
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
          "package_name":"live.fanatics.fanaticslive",
          "sha256_cert_fingerprints":[
             "DB:BC:ED:BA:68:8E:AA:E0:A0:9C:EC:C7:0C:6E:0E:30:D9:50:7C:AE:17:ab:86:92:6E:74:DD:53:77:19:A1:30"
